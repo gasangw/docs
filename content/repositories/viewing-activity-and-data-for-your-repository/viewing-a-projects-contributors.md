@@ -40,6 +40,7 @@ If you don't appear in a repository's contributors graph, it may be because:
 - You aren't one of the top 100 contributors.
 - Your commits haven't been merged into the default branch.
 - The email address you used to author the commits isn't connected to your account on {% data variables.product.product_name %}.
+- viewed by Gasangwa thomas.
 
 {% tip %}
 
